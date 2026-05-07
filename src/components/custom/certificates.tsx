@@ -42,7 +42,7 @@ const certificates = [
     title: "Fundamentals of AI Agents",
     issuer: "Hugging Face",
     date: "2026",
-    link: "https://www.coursera.org",
+    link: "https://cas-bridge.xethub.hf.co/xet-bridge-us/67a47037749ea2c4b9fafd4b/6abe31a0c98398503cfa880bf81e6415d97e899f212215fd6daa95192352e99d?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cas%2F20260507%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260507T135812Z&X-Amz-Expires=3600&X-Amz-Signature=596b1f30ffb7af8c22aad4a5f01bced5ca68f88e093773e1970248014445a87b&X-Amz-SignedHeaders=host&X-Xet-Cas-Uid=67d8202cd4db484fd75f4918&response-content-disposition=inline%3B+filename*%3DUTF-8%27%272026-05-05.png%3B+filename%3D%222026-05-05.png%22%3B&response-content-type=image%2Fpng&x-amz-checksum-mode=ENABLED&x-id=GetObject&Expires=1778165892&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE2NTg5Mn19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2FzLWJyaWRnZS54ZXRodWIuaGYuY28veGV0LWJyaWRnZS11cy82N2E0NzAzNzc0OWVhMmM0YjlmYWZkNGIvNmFiZTMxYTBjOTgzOTg1MDNjZmE4ODBiZjgxZTY0MTVkOTdlODk5ZjIxMjIxNWZkNmRhYTk1MTkyMzUyZTk5ZCoifV19&Signature=bhA4CovOTJw0mS6zARWIbVI7CTcGdDvZ5wQ%7EwyjF7mDnyp8-xb4%7EiA61Qm6JEKuLI8mEExBaC9ceia8TFD6KZqcvdp4r96U9ATn%7EXJT-bm9RhXO2l80HbsFgP16wL8dJv0dPa4KbNDEU-IQ2ZnJT-du2C3pe7xt5edBgL5u41q6iCJj-cjtAvTJ%7EQjlZ%7Er9kaLxKUn-IUc4CbN3hAqbC4NgxlXz0lxKgJ-iO6bjv5s4zIdJV3HYfCPFFITZBHBx16dTH4dw1Y1uiDrUsy9YIwiMxEmXIUSHbZ1DqDd8%7EAoXFKfbRLzHEprjDBNjMnQOCeXjILI1m38YHZjmyjK2qBA__&Key-Pair-Id=K2L8F4GPSG1IFC",
     image: "/certificates/agent-fundamentals.webp",
   },
   {
@@ -58,6 +58,13 @@ const certificates = [
     date: "2025",
     link: "https://events.vtools.ieee.org/m/536210",
     image: "/certificates/biofusion.webp",
+  },
+  {
+    title: "LangGraph Essentials - Python",
+    issuer: "LangChain Academy",
+    date: "2026",
+    link: "https://academy.langchain.com/certificates/ng0w4eoysu",
+    image: "/certificates/langgraph_essentials.webp",
   },
 ];
 
